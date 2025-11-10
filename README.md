@@ -7,4 +7,6 @@
 - https://openai.github.io/openai-agents-python/
 - https://mozilla-ai.github.io/any-agent/
 - https://learn.microsoft.com/en-us/microsoft-365/agents-sdk/
+- https://microsoft.github.io/autogen/stable/
 - https://www.langchain.com/langgraph
+- https://developers.llamaindex.ai/python/framework/
