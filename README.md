@@ -30,6 +30,7 @@
 
 - https://www.microsoft.com/en/microsoft-copilot/microsoft-copilot-studio
 - https://ai.azure.com/doc/azure/ai-foundry/what-is-azure-ai-foundry
+- https://lenshq.io/products/lens-loop
 
 ⬆️ [Back to Contents](#contents)
 
