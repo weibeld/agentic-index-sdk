@@ -23,14 +23,28 @@
 - https://learn.microsoft.com/en-us/agent-framework/
 - https://learn.microsoft.com/en-us/semantic-kernel/overview/
 - https://www.llamaindex.ai/llamaindex
+- https://useworkflow.dev/
+- https://ai-sdk.dev/
+- https://developers.openai.com/apps-sdk/
+- https://www.parlant.io/
+
 
 ⬆️ [Back to Contents](#contents)
 
-## Builder Platforms
+## Building and Running Agents (Agent Platform)
 
 - https://www.microsoft.com/en/microsoft-copilot/microsoft-copilot-studio
-- https://ai.azure.com/doc/azure/ai-foundry/what-is-azure-ai-foundry
+- https://command.new/
+- https://aws.amazon.com/bedrock/agentcore/
+- https://coreweave.com/
+- https://aws.amazon.com/nova/act/
+
+⬆️ [Back to Contents](#contents)
+
+## Observability
+
 - https://lenshq.io/products/lens-loop
+- https://github.com/ColeMurray/claude-code-otel
 
 ⬆️ [Back to Contents](#contents)
 
